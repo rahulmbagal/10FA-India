@@ -1,0 +1,4 @@
+Case Study 4:
+Used data from the google play as we can analysis between the app users behaviours. the same analysis can be applicable for the social media users data like twitters
+
+jupyter notebook - python version 3.7
